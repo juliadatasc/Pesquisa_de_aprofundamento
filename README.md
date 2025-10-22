@@ -1,7 +1,5 @@
 # 📚 Análise do Saeb 2023 – Pernambuco
 
-<img src="logo_fundaj.png" alt="Fundação Joaquim Nabuco" width="200">
-
 ---
 
 ## 📝 Descrição do Projeto
